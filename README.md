@@ -104,14 +104,3 @@ AutoTrack is a comprehensive web-based application designed to facilitate the ma
 4. **Open the application:**
    Navigate to `http://localhost:3000` in your browser.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-AutoTrack offers a powerful solution for managing used car inventories, combining modern web technologies with user-friendly interfaces to ensure efficient and accurate data collection and management.
